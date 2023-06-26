@@ -5,12 +5,12 @@
     --color-green2: rgb(30, 180, 92);
     --color-red1: rgb(255, 0, 0);
     --color-red2: rgb(100, 21, 21);
-    --color-white: rgb(255, 255, 255);
+    --color-white: rgb(170, 167, 167);
 }
 
 body{
     font-family: monospace;
-    background-color: var(--color-black1);
+    background-color: var(--color-white);
     display: flex;
     flex-direction: column;
     align-items: center;
